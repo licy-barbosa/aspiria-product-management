@@ -2,6 +2,7 @@
 node_modules/
 dist/
 .angular/
+.vscode/
 
 # .NET
 bin/
