@@ -1,0 +1,6 @@
+@Aspiria_HostAddress = http://localhost:5051
+
+GET {{Aspiria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
